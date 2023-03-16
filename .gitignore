@@ -1,0 +1,6 @@
+*.log
+*.bak
+/bin
+/obj
+/.vs
+*.csproj
